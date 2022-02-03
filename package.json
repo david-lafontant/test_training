@@ -1,0 +1,23 @@
+{
+  "name": "test_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-lafontant/test_training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-lafontant/test_training/issues"
+  },
+  "homepage": "https://github.com/david-lafontant/test_training#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
