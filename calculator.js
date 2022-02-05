@@ -1,5 +1,4 @@
 class calculator {
-
   static add(num1, num2) {
     return num1 + num2;
   }
@@ -15,12 +14,10 @@ class calculator {
   static divide(num1, num2) {
     if (num2 !== 0) {
       return num1 / num2;
-    }
-    else {
+    } else {
       return "Error";
     }
   }
-
 }
 
 module.exports = calculator;
